@@ -1,2 +1,4 @@
 # labyrinth-ecommerce-app
-this is e app
+This is e app
+<br />
+Author - Pratyush Dhakal
